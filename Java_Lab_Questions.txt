@@ -1,0 +1,70 @@
+19/08/2025 (1st day)
+- Set up computer/check it.
+- Install jdk.
+- Check vs code.
+
+20/08/2025 (2nd day)
+- What did I do in the lab?
+- Also stop of installing JDK.
+- Why syntax, objects, etc. are used (each case; use of it).
+- hello.java addition of two number.
+- Difference between procedural and OOP, methods.
+
+21/08/2025 (3rd day)
+- Check if program works without public, same class and file name.
+- Wap a program in Java to print your name.
+- Wap in Java to add 2 numbers (Add.java).
+- Wap in Java to swap 2 numbers (Swap.java).
+- Wap to find the square and cube of a number (Square.java).
+- Wap to calculate the area of a rectangle (AreaRectangle.java).
+- Wap to calculate simple interest (SInterest.java).
+
+22/08/2025 (4th day)
+- Wap in Java to print your name, age and city user input (Namein.java).
+- Wap in Java to add 2 numbers user input (Addu.java).
+- Wap to Swap 2 numbers (Swap.java).
+- Wap that takes name and city as Input from NewYork !! (Namess.java).
+- Wap take the radius as input and calculate the area using formula Area=pi*r^2 (Circler.java).
+- Wap ask for marks in 5 subjects, calculate total, average and percentage (Marks.java).
+
+26/08/2025
+- Take three integers as input and check whether it is even or odd.
+- Input marks and print the largest one.
+- Input marks and print grades using the following:
+  90-100: A
+  80-89: B
+  70-79: C
+  60-69: D
+
+27/08/2025
+- Wap in Java to check if a year is a leap year or not using if-else.
+- Input 3 sides of a triangle. Check if the triangle is valid using the triangle inequality rule.
+- Take two numbers & an operator (+, -, *, /) & perform the corresponding operation (if else).
+- Take two numbers & an operator (+, -, *, /) & perform the corresponding operation (switch).
+
+28/08/2025
+- Wap to print first n even numbers.
+- Wap to find the sum of first n natural numbers.
+- Wap in Java to find the sum of elements of an array using enhanced for loop.
+- Wap to find the factorial of a number.
+- Wap to print the Fibonacci Series up to a given range.
+
+29/08/2025
+- Wap to find if a number is prime or not.
+- Wap to print n natural numbers in reverse order.
+- Wap to print the sum of squares of n natural numbers.
+
+31/08/2025
+- Wap to print all the even numbers up to 20 using while loop.
+- Wap to print all the even numbers up to 20 using do while loop.
+- Wap to count the digits of a number.
+- Wap to find the sum of digits of a number using while loop.
+- Wap to find the factorial of a number using while loop.
+- Wap to check whether a number is palindrome or not.
+
+02/09/2025
+- Wap to find square of a number using a method.
+- Wap to find if a number is prime using a method.
+- Wap to find factorial of a number using a method.
+- Wap to convert Celsius to Fahrenheit using a method.
+- Wap to calculate Fibonacci sequence up to n terms using a method.
