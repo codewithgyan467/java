@@ -68,3 +68,12 @@
 - Wap to find factorial of a number using a method.
 - Wap to convert Celsius to Fahrenheit using a method.
 - Wap to calculate Fibonacci sequence up to n terms using a method.
+04/09/2025
+ - Wap to find th sum of N natural numbers using recursion.
+ - Wap to find the Fibonacci Series upto N terms using recursion
+ -Wap to reverse a string
+ -WAP to check whether the string is palindrome or not 
+ 09/09/2025
+ -Wap in java to find the smallest and largest element in an array
+ -Wap in java to calculate the sum and average of an array element
+ -Wap in java to reverse an array 
