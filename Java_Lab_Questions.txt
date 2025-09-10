@@ -77,3 +77,7 @@
  -Wap in java to find the smallest and largest element in an array
  -Wap in java to calculate the sum and average of an array element
  -Wap in java to reverse an array 
+ 10/09/2025
+ -WAP in java tp search an element in an array 
+ -WAP in java to check if an array is sorted in assending order
+ -WAP in java to merge two arrays 
