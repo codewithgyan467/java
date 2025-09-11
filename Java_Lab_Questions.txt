@@ -81,3 +81,11 @@
  -WAP in java tp search an element in an array 
  -WAP in java to check if an array is sorted in assending order
  -WAP in java to merge two arrays 
+ -WAP in java to find even and odd numbers in an array
+ 11/09/2025
+-Write a program that accepts any Object as input and prints whether it is a String, Integer, or some other type.
+-⁠Write a program to convert a numeric String to an int and perform an arithmetic operation on it.
+-⁠Write a Java program to demonstrate implicit type conversion between primitive types.
+-⁠Write a Java program to display the current date and time using the LocalDateTime class.
+-⁠Write a program to format the current date and time into a custom format like dd-MM-yyyy HH:mm:ss.
+ 

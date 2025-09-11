@@ -12,7 +12,7 @@ public class CelsiusToFahrenheitMethod {
         System.out.print("Enter temperature in Celsius: ");
         double c = sc.nextDouble();
         double f = cToF(c);
-        System.out.printf("%.2f °C = %.2f °F%n", c, f);
+        System.out.printf("%.2f °C \n  = %.2f  °F%n", c, f);
         sc.close();
     }
 }
