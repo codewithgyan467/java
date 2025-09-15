@@ -92,5 +92,9 @@
 -Create a class Rectangle with members length and width. Add a method to calculate area and perimeter, then display the results for a rectangle.
 -⁠Define a class Calculator with a method add() that takes two integers and returns their sum. Demonstrate the method using an object.
 -⁠Create a class Student with fields for rollNo and marks. Write methods to set values and display them using an object.
--
- 
+15/09/2025
+-Wap in java to demonstrate handling of ArrayIndexOutOfBoundsException
+-Wap in java to handle multiple exceptions in a single program (e.g.: ArithmeticException, ArrayIndexOutOfBoundsException, NumberFormatException)
+-Wap in java to use try-catch-finally and show how the finally block always executes
+-Wap in java to take user input and handle invalid input using InputMismatchException
+-Wap in java to demonstrate nested try-catch block
