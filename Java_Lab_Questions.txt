@@ -88,6 +88,7 @@
 -⁠Write a Java program to demonstrate implicit type conversion between primitive types.
 -⁠Write a Java program to display the current date and time using the LocalDateTime class.
 -⁠Write a program to format the current date and time into a custom format like dd-MM-yyyy HH:mm:ss.
+
 -Write a Java program to create a class Person with data members name and age. Create two objects and display their details.
 -Create a class Rectangle with members length and width. Add a method to calculate area and perimeter, then display the results for a rectangle.
 -⁠Define a class Calculator with a method add() that takes two integers and returns their sum. Demonstrate the method using an object.
@@ -96,5 +97,11 @@
 -Wap in java to demonstrate handling of ArrayIndexOutOfBoundsException
 -Wap in java to handle multiple exceptions in a single program (e.g.: ArithmeticException, ArrayIndexOutOfBoundsException, NumberFormatException)
 -Wap in java to use try-catch-finally and show how the finally block always executes
--Wap in java to take user input and handle invalid input using InputMismatchException
+-Wap in java to take user input and handle invalid input using InputMismatchException  
 -Wap in java to demonstrate nested try-catch block
+16/09/2025
+-Write a Java program that repeatedly asks the user for input and uses hasNextInt() to check if the entered value is an integer. If it is, print the value; otherwise, display an error message and stop.
+-⁠Create a program that reads multiple inputs from the user. Use hasNextInt() to count how many valid integers the user has entered before entering a non-integer.
+-⁠Write a program that reads integers from the user until a non-integer is entered. Use hasNextInt() to validate each input and calculate the sum of all valid integers.
+-⁠Develop a program that uses hasNextInt() to read user inputs and only accepts positive integers. Stop reading when a negative integer or non-integer is entered and display the list of valid inputs.
+-⁠Write a program that keeps reading integers from the user using hasNextInt() until a non-integer is entered, then prints the largest number entered.
