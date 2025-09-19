@@ -105,3 +105,22 @@
 -⁠Write a program that reads integers from the user until a non-integer is entered. Use hasNextInt() to validate each input and calculate the sum of all valid integers.
 -⁠Develop a program that uses hasNextInt() to read user inputs and only accepts positive integers. Stop reading when a negative integer or non-integer is entered and display the list of valid inputs.
 -⁠Write a program that keeps reading integers from the user using hasNextInt() until a non-integer is entered, then prints the largest number entered.
+18/09/2025
+1. Write a program to generate a random number between 1 and 100.
+2. ⁠Write a Java program to print the multiplication table of a number using a for loop.
+3. ⁠Write a Java program to count the number of vowels in a string.
+4. ⁠Write a Java program to print the following pattern:
+
+*
+**
+***
+****
+*****
+5. Write a recursive method to reverse a string.
+6. ⁠Design an Employee class with fields: name, basicSalary. Add a method to calculate and return the gross salary, assuming gross salary = basicSalary + 10% HRA + 12% DA.
+19/09/2025
+1.	Write a Java program to read n integers into an array and print only those that are divisible by 3 or 5.
+2.	Write a Java program that takes an array of strings from the user and prints only the strings that start with a vowel.
+3.	Write a Java program that replaces all 'a' characters in a string with '@' using replace().
+4.	Write a Java program that accept an array of strings from the user and sort them in alphabetical order.
+5.	Write a Java program that sort an array with duplicate elements and remove duplicates after sorting.
