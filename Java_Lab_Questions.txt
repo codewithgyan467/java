@@ -124,3 +124,41 @@
 3.	Write a Java program that replaces all 'a' characters in a string with '@' using replace().
 4.	Write a Java program that accept an array of strings from the user and sort them in alphabetical order.
 5.	Write a Java program that sort an array with duplicate elements and remove duplicates after sorting.
+ 08/10/2025
+ 1. write a java program to Create a Student class (pure class) with fields: name, rollNumber, marks. Then create another 
+class StudentService that: 
+a) Accepts a list of students 
+b) Calculates the average marks 
+c) Prints students with marks > average 
+2. Write a java program toCreate a class Book that holds the following information: 
+Title 
+Author 
+ISBN 
+Price 
+The class should: 
+a) Only contain private fields 
+b) Provide getters and setters 
+c) Include a parameterized constructor 
+3. Create a Calculator class with multiple add() methods to: 
+a) Add two integers 
+b) Add two doubles 
+c) Add three integers 
+Write a main method to test all overloaded methods. 
+4. Create a class Shape with overloaded methods: 
+a) area(int side) – for square 
+b) area(int length, int breadth) – for rectangle 
+c) area(double radius) – for circle 
+Use main() to demonstrate the method overloading. 
+5. Create a Car class with the following overloaded constructors: 
+a) No-argument constructor 
+b) One-argument constructor (brand) 
+c) Two-argument constructor (brand, price) 
+In main(), create objects using each constructor and display the car details.
+ 
+ 09/10/2025
+
+1.WAP in java to calculate the area of a rectangle using overloading constructors.
+    a)Default constructor set area=0;
+    b)Parameterised constructor takes length and breadth ;
+2.Create a class Box with overloaded constructors to calculate volume of a cube or cuboid.
+3.WAP a show how the constructor can call another constructor usibg this()
