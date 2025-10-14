@@ -162,3 +162,14 @@ In main(), create objects using each constructor and display the car details.
     b)Parameterised constructor takes length and breadth ;
 2.Create a class Box with overloaded constructors to calculate volume of a cube or cuboid.
 3.WAP a show how the constructor can call another constructor usibg this()
+
+10/10/2025
+a)Write a Program to define pure class Temperature with method to convert Celsius to Farenhiet & Farenhiet to Celsius.
+b)Write a Program to concetenate 2 strings using the + operator & display the results(Simulate operator overloading)
+c)Write a Program to add the complex numbers using a method(simulate operator overloading)
+d)Write a Program to pass the correct object as an argument using "this" keyword
+11/10/2025
+a)WAP in pure class to calculate area & perimeter of rectangle
+b)To calculate employee salary
+c)To Calculate bank a/c balance 
+d) To Calculate Distance between two points
