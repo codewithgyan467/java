@@ -170,6 +170,14 @@ c)Write a Program to add the complex numbers using a method(simulate operator ov
 d)Write a Program to pass the correct object as an argument using "this" keyword
 11/10/2025
 a)WAP in pure class to calculate area & perimeter of rectangle
-b)To calculate employee salary
+b)Wap a program in pure class To calculate employee salary
 c)To Calculate bank a/c balance 
 d) To Calculate Distance between two points
+11/10/2025
+1. WAP that takes a user's Name, Age & City as input and displays it.
+2. WAP to add 2 nos. using user Input.
+3. WAP to ask for marks in 5 subjects & calculate the total marks, average & percentage.
+4. WAP that takes an integer as I/P and check whether it is even or odd.
+27/10/2025
+1.WAP to add,display and calculate grades of students using inheritance(using simple inheritance)
+2.calculate area of different shpes using inheritence
