@@ -181,3 +181,9 @@ d) To Calculate Distance between two points
 27/10/2025
 1.WAP to add,display and calculate grades of students using inheritance(using simple inheritance)
 2.calculate area of different shpes using inheritence
+03/11/2025
+1. Write a Java program to demonstrate single inheritance where a Child class inherits properties from a Parent class.
+2. ⁠Write a program to show implicit constructor call in single inheritance
+3. ⁠Write a program to demonstrate explicit constructor call using super() in single inheritance.
+4. ⁠Create a program where the parent and child have a method with the same name, and the child uses super to call the parent’s version.
+5. ⁠Write a Java program to compute area of a rectangle in parent class and perimeter in child class using inherited values.
