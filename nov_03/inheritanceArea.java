@@ -1,5 +1,3 @@
-package mca_25.nov_03;
-
 import java.util.Scanner;
 
 public abstract class inheritanceArea {

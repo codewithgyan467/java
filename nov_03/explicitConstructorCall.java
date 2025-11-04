@@ -1,5 +1,3 @@
-package mca_25.nov_03;
-
 public class explicitConstructorCall {
     
   class Parent {

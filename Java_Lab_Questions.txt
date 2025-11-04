@@ -187,3 +187,9 @@ d) To Calculate Distance between two points
 3. ⁠Write a program to demonstrate explicit constructor call using super() in single inheritance.
 4. ⁠Create a program where the parent and child have a method with the same name, and the child uses super to call the parent’s version.
 5. ⁠Write a Java program to compute area of a rectangle in parent class and perimeter in child class using inherited values.
+04/11/2025
+1.Write a class "Student" with
+a)Instance variable roll_no,name,semester.branch
+b)A method called setData() that Takes 4 parameters & returns Void(To Set Values of instance variable)
+c)A method called calculate() that donot have input parameters & returns double value(To take marks of 5 subjects & calculate total percentage)
+d)A method called ShowData() (It should not contain parameters and  must return void)
