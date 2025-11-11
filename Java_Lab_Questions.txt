@@ -193,3 +193,8 @@ a)Instance variable roll_no,name,semester.branch
 b)A method called setData() that Takes 4 parameters & returns Void(To Set Values of instance variable)
 c)A method called calculate() that donot have input parameters & returns double value(To take marks of 5 subjects & calculate total percentage)
 d)A method called ShowData() (It should not contain parameters and  must return void)
+11/11/2025
+1. Create classes Teacher and MathTeacher. MathTeacher should extend Teacher and add new methods for subject information.
+2. Create a base class Account and derived class SavingsAccount that inherits from it. Add methods to calculate interest.
+3. Create two classes Shape and Circle. Circle should override the area() method of Shape.
+4. Write a program where Programmer extends Employee and overrides the displayDetails() method.
